@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coryackle.github.io/igamesen-com-cn/sitemap.xml
